@@ -1,7 +1,7 @@
 # Searchable Point Map template v1.4 with Google Maps and Fusion Tables
 
 ## Demos
-- http://jphealy30.github.io/fusion-map-point/index.html
+- https://jphealy30.github.io/fusion-map-point/index.html
 - and index_iframe.html embedded in test page http://jackdougherty.github.io/fusion-map-point/iframe_test.html
 - with Google Fusion Table points of CT schools https://www.google.com/fusiontables/DataSource?docid=1FMjVRb16OqlkeodL7onaQ5A7jamtpSY0TmHaa-WQ#rows:id=1
 
